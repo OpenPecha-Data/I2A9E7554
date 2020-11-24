@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25605
   title: ཡིག་གཟུགས་སྦྱོང་དེབ།
-  volume: ''
+  volume:
+    a4eacc69377f4b43963525406ef843da:
+      image_group_id: I1KG25607
+      title: Volume 1 of yig gzugs sbyong deb/
+      volume_number: 1
+      total_pages: 118
   author: ''
+ebook_metadata:
+  title: ཡིག་གཟུགས་སྦྱོང་དེབ།
+  author: ''
+  sku: P007036
+  cover: cover.jpg
+  layers:
+  - pagination
